@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+weights/battery_vit_encoder_fp16.pth
+weights/*.part
