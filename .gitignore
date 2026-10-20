@@ -1,0 +1,25 @@
+# 数据与权重
+*.zip
+*.tar.gz
+*.mat
+*.pth
+*.pt
+*.npz
+*.npy
+
+# 图片
+*.png
+*.jpg
+*.jpeg
+
+# 训练输出
+events.out.tfevents*
+
+# 系统/缓存
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ViT-GradCAM 上游仓库的原始 .git（改名保留）
+.git_upstream/

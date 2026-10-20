@@ -1,0 +1,39 @@
+{
+    "NMC": {
+        "train": [
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_15.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_7.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_discharge_wo_13.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.1_15_w0.9.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.2_15_w0.8.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.3_15_w0.7.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.4_15_w0.6.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.5_15_w0.5.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.6_15_w0.4.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.7_15_w0.3.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.8_15_w0.2.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_14_w0.9_15_w0.1.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.1_7_w0.9.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.2_7_w0.8.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.3_7_w0.7.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.4_7_w0.6.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.5_7_w0.5.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.6_7_w0.4.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.7_7_w0.3.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.8_7_w0.2.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_6_w0.9_7_w0.1.mat"
+        ],
+        "test": [
+            "/path/to/mae/data/mae_train_all/NMC#2_discharge_wo_17.mat",
+            "/path/to/mae/data/mae_train_all/NMC#3_discharge_wo_13.mat",
+            "/path/to/mae/data/mae_train_all/NMC#4_discharge_wo_16.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_3.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_charge_wo_1.mat",
+            "/path/to/mae/data/mae_train_all/NMC#3_discharge_wo_14.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_discharge_wo_11.mat",
+            "/path/to/mae/data/mae_train_all/NMC#2_discharge_wo_12.mat"
+        ]
+    }
+}
